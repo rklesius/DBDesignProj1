@@ -1,0 +1,7 @@
+This project was created for the Database Design Class at USF.
+By Rachel Klesius
+1/22/18
+
+To compile and run this program, use the following commands in a linux terminal:
+javac *.java
+java P1
